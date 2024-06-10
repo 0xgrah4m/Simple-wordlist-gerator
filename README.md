@@ -1,1 +1,1 @@
-# Simple-wordlist-gerator
+# A simple wordlist generator
